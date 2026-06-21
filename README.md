@@ -3,8 +3,8 @@
 **Author:** Aarya Nenawatee  
 **Project Category:** Open Source Programming (OSP) Project-Based Learning (PBL)
 
-## 🌟 Project Overview
-**SkinSense** is a pipeline-driven Python application designed to act as an environment-aware skincare advisory tool. By consuming massive community-sourced product cosmetics data and live local meteorology metrics, the application dynamically matches an individual's custom profile with safe, high-efficacy cosmetic ingredients suited for their exact microclimate.
+##  Project Overview
+**SkinSense** is a pipeline-driven Python application designed to act as an environment-aware skincare advisory tool. The application uses community-sourced product data and live local weather to match an individual's profile with safe, high-efficacy cosmetic ingredients suited to their microclimate.
 
 ##  Open-Source Data Pipelines & APIs
 * **Cosmetics Ingredient Core:** [Open Beauty Facts API & Dump](https://world.openbeautyfacts.org/data)
